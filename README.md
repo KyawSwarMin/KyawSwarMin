@@ -1,4 +1,4 @@
-![#f03c15] `#f03c15` <h1 align="left">Hi 👋, I'm Kyaw Swar Min</h1>
+![#f03c15] `#f03c15` <h1 align="left">$$ {\color{blue}Hi 👋, I'm Kyaw Swar Min}$$</h1>
 ![#f03c15] `#f03c15`<h3 align="left">A passionate Cloud Engineer from Myanmar(Burma).</h3>
 
 $$ {\color{gold}Color \space your \space \color{yellow}.md \space file \space \color{pink}in \space Github}$$
