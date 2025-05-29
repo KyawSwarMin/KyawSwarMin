@@ -3,7 +3,7 @@
 
 $$ {\color{gold}Color \space your \space \color{yellow}.md \space file \space \color{pink}in \space Github}$$
 
-$$ {\color{gold}Color \space \space \space \space \color{purple}purple }$$
+$$ {\color{gold}Color \space \space \space \space \space \space \space \space \space \color{purple}purple }$$
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyawswarmin&show_icons=true&locale=en&layout=compact" alt="kyawswarmin" /></p>
 
