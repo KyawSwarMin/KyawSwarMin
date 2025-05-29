@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Kyaw Swar Min</h1>
 <h3 align="left">A passionate Cloud Engineer from Myanmar(Burma).</h3>
 
-$$ {\color{gold}“With the cloud, individuals and small businesses can snap their fingers and instantly set up enterprise-class services.” \bold : \color{pink} Roy Stephan, 2011}$$
+$$ {\color{gold}“With the cloud, individuals and small businesses can snap their fingers and instantly set up enterprise-class services.” - \color{pink} Roy Stephan, 2011}$$
 
 $$ {\color{gold}Color \space \space \space \space \space \space \space \space \space \color{purple}purple }$$
 
