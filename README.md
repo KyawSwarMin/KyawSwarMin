@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Kyaw Swar Min</h1>
-<h3 align="left">A passionate Cloud Engineer from Myanmar(Burma).</h3>
+![#f03c15] <h1 align="left">Hi 👋, I'm Kyaw Swar Min</h1>
+![#f03c15] <h3 align="left">A passionate Cloud Engineer from Myanmar(Burma).</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyawswarmin&show_icons=true&locale=en&layout=compact" alt="kyawswarmin" /></p>
 
