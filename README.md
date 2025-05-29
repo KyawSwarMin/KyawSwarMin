@@ -11,6 +11,8 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+<span style="color: green"> Some green text </span>
+
 ###
 
 <div align="left">
