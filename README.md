@@ -1,7 +1,7 @@
-![#f03c15] `#f03c15` <h1 align="left">$$ {\color{blue}Hi 👋, I'm Kyaw Swar Min}$$</h1>
-![#f03c15] `#f03c15`<h3 align="left">A passionate Cloud Engineer from Myanmar(Burma).</h3>
+<h1 align="left">Hi 👋, I'm Kyaw Swar Min</h1>
+<h3 align="left">A passionate Cloud Engineer from Myanmar(Burma).</h3>
 
-$$ {\color{gold}Color \space your \space \color{yellow}.md \space file \space \color{pink}in \space Github}$$
+$$ {\color{gold}“With the cloud, individuals and small businesses can snap their fingers and instantly set up enterprise-class services.” \space : \color{pink} Roy Stephan, 2011}$$
 
 $$ {\color{gold}Color \space \space \space \space \space \space \space \space \space \color{purple}purple }$$
 
